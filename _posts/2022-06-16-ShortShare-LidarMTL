@@ -1,0 +1,18 @@
+# A Simple and Efficient Multi-task Network for 3D Object Detection and Road Understanding
+
+开源项目地址：[LidarMTL](https://github.com/frankfengdi/LidarMTL)
+
+## 概要：
+这篇文章介绍了一种简单高效的激光雷达多任务检测模型，支持到了6种检测任务（OD，FG, IP, GA, GC, GH）
+
+![网络的主要结构](_images/2022-06-16/MTL-Structure.png)
+
+论文通过了一个3D-UNet网络，加上5个检测头实现了，FG, IP, GA, GC, GH的5个任务的检测，后端连接了 BEV OD检测头完成了目标检测任务。其中，FG, IP, GA, GC, GH这5个任务是分割任务，所以直接通过了point-wise的头任务实现.对于目标检测任务，将3D-UNet的64下采样结果构成了BEV features作为检测的的特征，并通过一个2头检测任务完成了目标检测。
+
+## 损失函数：
+作为联合训练，作者提出了调整的多任务头对任务进行了实现。
+
+## 实验结果：
+
+![分割头任务性能汇总](_images/2022-06-16/Performance1.png)
+![检测头任务性能汇总](_images/2022-06-16/Performance2.png)
