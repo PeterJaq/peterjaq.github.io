@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
+title:            咖喱屋
 tagline:          '咖喱屋'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      '哈啰 我是一个自动驾驶算法工程师，希望在这里可以和志同道合的朋友分享更多的东西 :blush:'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
