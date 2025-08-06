@@ -1,3 +1,9 @@
+---
+show: true
+width: 5
+date: 2025-08-06 00:01:00 +0800
+---
+
 <style>
   .half-size {
     width: 50%;  /* Reduce width to 50% */
