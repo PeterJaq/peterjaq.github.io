@@ -11,7 +11,7 @@ abstract: >-
 cover: /assets/images/research/2025-sparsemext/overall_framework.png
 authors:
 - Anqing Jiang*
-- Jinhao Chai*
+- Jinhao Chai
 - Yu Gao
 - Yiru Wang
 - Zhigang Sun
