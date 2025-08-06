@@ -18,7 +18,7 @@ authors:
 - Hao Sun
 - Lijuan Zhu
 links:
-  Project Page: https://github.com/SparseMeXT/SparseMeXT.github.io
+  Project Page: SparseMeXT.github.io
   Paper: https://arxiv.org/abs/2505.08808
   Code: https://github.com/peterjaq/sparsemext
   
