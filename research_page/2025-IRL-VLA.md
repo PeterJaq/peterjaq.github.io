@@ -10,19 +10,17 @@ date: 2025-08-6 00:01:00 +0800
 
 Anqing Jiang<sup>1\*</sup>, Yu Gao<sup>1\*</sup>, Yiru Wang<sup>1\*</sup>, Zhigang Sun<sup>1</sup>, Shuo Wang<sup>1</sup>, Yuwen Heng<sup>1</sup>, <br>
 
-Hao Jiang<sup>2</sup>，Jinhao Chai<sup>3</sup>, Zichong Gu<sup>3</sup>, Jijun Wang<sup>4</sup>, Li Sun<sup>5</sup>, <br>
+Hao Jiang<sup>2</sup>，Jinhao Chai<sup>3</sup>, Zichong Gu<sup>3</sup>, Jijun Wang<sup>4</sup>, Li Sun<sup>5</sup>, Hao Sun†<sup>1</sup> <br>
 
-Hao Sun†<sup>1</sup>
+<br>
 
 <sup>1</sup>Bosch Corporate Research RIX  <br>
-
 <sup>2</sup>Shanghai Jiaotong University  <br>
-
 <sup>3</sup>Shanghai University <br>
-
 <sup>4</sup>AIR, Tsinghua University <br>
-
 <sup>5</sup>Robert Bosch GmbH <br>
+
+<br>
 
 (\*) Equal contribution. (†) Corresponding author.  <br>
 
