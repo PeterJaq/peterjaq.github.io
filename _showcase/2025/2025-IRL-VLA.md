@@ -1,3 +1,9 @@
+---
+show: true
+width: 4
+date: 2025-08-8 00:01:00 +0800
+---
+
 <div align="center">
 <h3>IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model</h3>
 
