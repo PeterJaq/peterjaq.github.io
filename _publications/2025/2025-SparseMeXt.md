@@ -1,6 +1,6 @@
 ---
-title:          "[Original Research Paper] In silico analysis of Escherichia coli promoters recognised by the σ28 factor"
-date:           2016-05-16 00:01:00 +0800
+title:          "[Original Research Paper] SparseMeXt: Unlocking the Potential of Sparse Representations for HDMap Construction"
+date:           2016-05-12 00:01:00 +0800
 selected:       true
 pub:            "IROS2025"
 pub_date:       "2025"
