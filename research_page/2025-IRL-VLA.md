@@ -8,7 +8,8 @@ date: 2025-08-6 00:01:00 +0800
 <div align="center">
 <h3>IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model</h3>
 
-Anqing Jiang<sup>1\*</sup>, Yu Gao<sup>1\*</sup>, Yiru Wang<sup>1\*</sup>, Zhigang Sun<sup>1</sup>, Shuo Wang<sup>1</sup>, Yuwen Heng<sup>1</sup>, Hao Jiang<sup>2</sup>，Jinhao Chai<sup>3</sup>, Zichong Gu<sup>3</sup>, Jijun Wang<sup>4</sup>, Li Sun<sup>5</sup>, \
+Anqing Jiang<sup>1\*</sup>, Yu Gao<sup>1\*</sup>, Yiru Wang<sup>1\*</sup>, Zhigang Sun<sup>1</sup>, Shuo Wang<sup>1</sup>, Yuwen Heng<sup>1</sup>, \
+Hao Jiang<sup>2</sup>，Jinhao Chai<sup>3</sup>, Zichong Gu<sup>3</sup>, Jijun Wang<sup>4</sup>, Li Sun<sup>5</sup>, \
 Hao Sun†<sup>1</sup>
 
 <sup>1</sup>Bosch Corporate Research RIX  
@@ -16,6 +17,9 @@ Hao Sun†<sup>1</sup>
 <sup>3</sup>Shanghai University \
 <sup>4</sup>AIR, Tsinghua University
 <sup>5</sup>Robert Bosch GmbH
+
+(\*) Equal contribution. (†) Corresponding author.  
+
 </div>
 
 
