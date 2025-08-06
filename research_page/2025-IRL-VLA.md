@@ -1,7 +1,8 @@
 ---
-show: true
-width: 4
-date: 2025-08-8 00:01:00 +0800
+layout:  default
+title:   "IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model"
+permalink: /IRLVLA/
+date: 2025-08-6 00:01:00 +0800
 ---
 
 <div align="center">
